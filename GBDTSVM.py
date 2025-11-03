@@ -155,7 +155,7 @@ for rna in range(known_association.shape[0]):
             dataset.append((rna, disease))
 
 length = len(dataset)
-
+print(f"Total number of samples in the final dataset for training: {length}")
 selected_x = []
 selected_y = []
 #now I am just taking only the similarities of disease and rna of sampled data.
