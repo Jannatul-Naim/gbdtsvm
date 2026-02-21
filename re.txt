@@ -1,0 +1,104 @@
+5 Nodes 2 d(d1,d2) & 3 r(r1,r2,r3)
+
+ADJ :
+
+
+
+0 0 1
+1 1 1
+
+            d1(v1)- r3(v5) - d2(v2) - r1(v3) 
+                    |
+                    r2(v4)
+
+
+
+d Node : d1 - r3
+        d2 - r1,r2,r3
+
+
+r node : r1 - d2
+        r2 - d2
+        r3 - d1,d2
+
+edges : 
+        v1 <-> v5
+        v2 <-> v5, v3
+        v3 <-> v2
+        v4 <-> v5
+        v5 <-> v1, v2, v4
+
+
+
+
+Disease nodes (2)
+d1 → v1
+d2 → v2
+
+RNA nodes (3)
+r1 → v3
+r2 → v4
+r3 → v5
+
+
+So the global graph index space is:
+
+v1  v2  v3  v4  v5
+d1  d2  r1  r2  r3
+
+
+
+	d1	d2
+r1	0	1
+r2	0	1
+r3	1	1
+
+
+From adj, the raw (RNA, disease) pairs are:
+
+(r1, d2)
+(r2, d2)
+(r3, d1)
+(r3, d2)
+
+
+Numerically (dataset indices):
+
+r1=0, r2=1, r3=2
+d1=0, d2=1
+
+
+So:
+
+edges =
+[
+  [0, 1],
+  [1, 1],
+  [2, 0],
+  [2, 1]
+]
+
+
+rna_count = 3
+
+Because:
+
+r1, r2, r3 = 3 RNA nodes
+
+Apply convert_edges_to_node_pairs
+
+r = edges[:, 0]
+d = edges[:, 1] + rna_count
+
+
+RNA     ID      Disease ID     	RNAnode Disease node
+0       (r1)    1       (d2)	v3      v2
+1       (r2)	1       (d2)	v4	v2
+2       (r3)	0       (d1)	v5      v1
+2       (r3)	1       (d2)	v5      v2
+
+v1 <-> v5
+v2 <-> v5, v3
+v3 <-> v2
+v4 <-> v5
+v5 <-> v1, v2, v4

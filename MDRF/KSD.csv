@@ -1,0 +1,1010 @@
+GAS5,Lung cancer
+MEG8,Lung cancer
+MEG8,Cerebral cavernous malformations
+MEG8,Thyroid cancer
+MEG8,Esophageal cancer
+RNU1-1,Alzheimer disease
+RNU1-1,Rheumatoid arthritis
+RNU1-2,Rheumatoid arthritis
+RNU1-3,Rheumatoid arthritis
+RNU1-4,Rheumatoid arthritis
+RNU2-1,Colorectal adenocarcinoma
+RNU2-1,Gastric cancer
+RNU2-1,Pancreatic adenocarcinoma
+RNU7-1,Rheumatoid arthritis
+RNVU1-18,Rheumatoid arthritis
+RNVU1-7,Rheumatoid arthritis
+SCARNA10,Esophageal cancer
+SCARNA10,Gastric cancer
+SCARNA10,Liver fibrosis
+SCARNA11,Cerebral cavernous malformations
+SCARNA11,Gastric cancer
+SCARNA12,Gastric cancer
+SCARNA13,Gastric cancer
+SCARNA13,Hepatocellular carcinoma
+SCARNA14,Gastric cancer
+SCARNA15,Gastric cancer
+SCARNA15,Hepatocellular carcinoma
+SCARNA15,Osteoarthritis
+SCARNA16,Gastric cancer
+SCARNA17,Gastric cancer
+SCARNA18,Gastric cancer
+SCARNA2,Thyroid cancer
+SCARNA2,Esophageal cancer
+SCARNA2,Gastric cancer
+SCARNA22,Colorectal cancer
+SCARNA22,Hepatocellular carcinoma
+SCARNA22,Multiple myeloma
+SCARNA3,Lung cancer
+SCARNA3,Rheumatoid arthritis
+SCARNA3,Gastric cancer
+SCARNA3,Hepatocellular carcinoma
+SCARNA4,West nile virus infection
+SCARNA4,Gastric cancer
+SCARNA5,Prostate cancer
+SCARNA7,Gastric cancer
+SCARNA7,Osteoarthritis
+SCARNA8,Gastric cancer
+SCARNA8,Hepatocellular carcinoma
+SCARNA9,Colorectal cancer
+SCARNA9,West nile virus infection
+SCARNA9,Cerebral cavernous malformations
+SCARNA9,Thyroid cancer
+SCARNA9,Esophageal cancer
+SCARNA9,Osteoarthritis
+SCARNA9,Osteosarcoma
+SNHG1,Colorectal cancer
+SNHG1,Lung cancer
+SNHG1,Thyroid cancer
+SNHG1,Esophageal cancer
+SNHG1,Alzheimer disease
+SNHG1,Gastric cancer
+SNHG1,Hepatocellular carcinoma
+SNHG1,Osteoarthritis
+SNHG1,Prostate cancer
+SNHG1,Osteosarcoma
+SNHG1,Colorectal carcinoma
+SNHG1,Muscle-invasive bladder cancer
+SNHG1,Parkinson disease
+SNHG1,Breast cancer
+SNHG1,Pancreatic cancer
+SNHG1,Colon cancer
+SNHG1,Laryngeal cancer
+SNHG1,Laryngeal squamous cell carcinoma
+SNHG1,Glioblastoma
+SNHG1,Glioma
+SNHG1,Pancreatic ductal adenocarcinoma
+SNHG1,Liver cancer
+SNHG1,Lung squamous cell carcinoma
+SNHG1,Non small cell lung cancer
+SNHG1,Non small cell lung carcinoma
+SNHG1,Ovarian carcinoma
+SNHG1,Cervical cancer
+SNHG1,Renal cell carcinoma
+SNHG1,Clear cell renal cell carcinoma
+SNHG1,Cholangiocarcinoma
+SNHG1,Neuroblastoma
+SNHG1,Acute myeloid leukemia
+SNHG1,Nasopharyngeal carcinoma
+SNHG1,Esophageal squamous cell cancer
+SNHG1,Esophageal squamous cell carcinoma
+SNHG10,Hepatocellular carcinoma
+SNHG10,Glioblastoma
+SNHG11,Colorectal cancer
+SNHG11,Lung cancer
+SNHG11,Hepatocellular carcinoma
+SNHG11,Clear cell renal cell carcinoma
+SNHG12,Colorectal cancer
+SNHG12,Esophageal cancer
+SNHG12,Gastric cancer
+SNHG12,Hepatocellular carcinoma
+SNHG12,Prostate cancer
+SNHG12,Osteosarcoma
+SNHG12,Laryngeal squamous cell carcinoma
+SNHG12,Glioblastoma
+SNHG12,Glioma
+SNHG12,Liver cancer
+SNHG12,Non small cell lung cancer
+SNHG12,Cervical cancer
+SNHG12,Renal cell carcinoma
+SNHG12,Clear cell renal cell carcinoma
+SNHG12,Nasopharyngeal carcinoma
+SNHG12,Esophageal squamous cell cancer
+SNHG12,Triple negative breast cancer
+SNHG12,Bladder cancer
+SNHG12,Atherosclerosis
+SNHG12,Ovarian cancer
+SNHG12,Papillary thyroid cancer
+SNHG12,Papillary thyroid carcinoma
+SNHG12,Gastric carcinoma
+SNHG12,Nasopharyngeal cancer
+SNHG12,Nk/T cell lymphoma
+SNHG14,Colorectal cancer
+SNHG14,Cerebral cavernous malformations
+SNHG14,Thyroid cancer
+SNHG14,Esophageal cancer
+SNHG14,Gastric cancer
+SNHG14,Hepatocellular carcinoma
+SNHG14,Breast cancer
+SNHG14,Glioma
+SNHG14,Non small cell lung cancer
+SNHG14,Non small cell lung carcinoma
+SNHG14,Cervical cancer
+SNHG14,Ovarian cancer
+SNHG14,Ischemia
+SNHG14,Esophagus adenocarcinoma
+SNHG14,Retinoblastoma
+SNHG15,Colorectal cancer
+SNHG15,Lung cancer
+SNHG15,Thyroid cancer
+SNHG15,Esophageal cancer
+SNHG15,Gastric cancer
+SNHG15,Hepatocellular carcinoma
+SNHG15,Prostate cancer
+SNHG15,Osteosarcoma
+SNHG15,Colorectal carcinoma
+SNHG15,Breast cancer
+SNHG15,Pancreatic cancer
+SNHG15,Colon cancer
+SNHG15,Glioblastoma
+SNHG15,Glioma
+SNHG15,Pancreatic ductal adenocarcinoma
+SNHG15,Non small cell lung cancer
+SNHG15,Renal cell carcinoma
+SNHG15,Ovarian cancer
+SNHG15,Papillary thyroid carcinoma
+SNHG15,Epithelial ovarian cancer
+SNHG15,Renal cell cancer
+SNHG16,Colorectal cancer
+SNHG16,Thyroid cancer
+SNHG16,Esophageal cancer
+SNHG16,Gastric cancer
+SNHG16,Hepatocellular carcinoma
+SNHG16,Osteosarcoma
+SNHG16,Muscle-invasive bladder cancer
+SNHG16,Breast cancer
+SNHG16,Pancreatic cancer
+SNHG16,Colon cancer
+SNHG16,Glioma
+SNHG16,Liver cancer
+SNHG16,Non small cell lung cancer
+SNHG16,Non small cell lung carcinoma
+SNHG16,Cervical cancer
+SNHG16,Esophageal squamous cell carcinoma
+SNHG16,Bladder cancer
+SNHG16,Ovarian cancer
+SNHG16,Papillary thyroid cancer
+SNHG16,Retinoblastoma
+SNHG16,Diffuse large B cell lymphoma
+SNHG16,Oral squamous cell carcinoma
+SNHG16,Lymphoma
+SNHG16,Hemangioma
+SNHG16,Myasthenia gravis
+SNHG16,Pneumonia
+SNHG16,Pediatric neuroblastoma
+SNHG16,Leukemia lymphoblastic acute
+SNHG17,Colorectal cancer
+SNHG17,Esophageal cancer
+SNHG17,Gastric cancer
+SNHG17,Non small cell lung cancer
+SNHG17,Tongue squamous cell carcinoma
+SNHG17,Melanoma
+SNHG18,Colorectal cancer
+SNHG18,Thyroid cancer
+SNHG18,Esophageal cancer
+SNHG18,Hepatocellular carcinoma
+SNHG19,Esophageal cancer
+SNHG19,Osteoarthritis
+SNHG20,Gastric cancer
+SNHG20,Hepatocellular carcinoma
+SNHG20,Prostate cancer
+SNHG20,Osteosarcoma
+SNHG20,Breast cancer
+SNHG20,Glioblastoma
+SNHG20,Glioma
+SNHG20,Lung squamous cell carcinoma
+SNHG20,Non small cell lung cancer
+SNHG20,Non small cell lung carcinoma
+SNHG20,Clear cell renal cell carcinoma
+SNHG20,Nasopharyngeal carcinoma
+SNHG20,Esophageal squamous cell carcinoma
+SNHG20,Bladder cancer
+SNHG20,Ovarian cancer
+SNHG20,Epithelial ovarian cancer
+SNHG20,Oral squamous cell carcinoma
+SNHG20,Nonalcoholic fatty liver disease
+SNHG21,Osteoarthritis
+SNHG22,Thyroid cancer
+SNHG22,Esophageal cancer
+SNHG22,Clear cell renal cell carcinoma
+SNHG22,Papillary thyroid cancer
+SNHG22,Epithelial ovarian carcinoma
+SNHG25,Colorectal cancer
+SNHG25,Clear cell renal cell carcinoma
+SNHG3,Colorectal cancer
+SNHG3,Esophageal cancer
+SNHG3,Gastric cancer
+SNHG3,Hepatocellular carcinoma
+SNHG3,Prostate cancer
+SNHG3,Osteosarcoma
+SNHG3,Parkinson disease
+SNHG3,Breast cancer
+SNHG3,Glioma
+SNHG3,Liver cancer
+SNHG3,Non small cell lung carcinoma
+SNHG3,Clear cell renal cell carcinoma
+SNHG3,Acute myeloid leukemia
+SNHG3,Papillary thyroid carcinoma
+SNHG3,Oral squamous cell carcinoma
+SNHG4,Lung cancer
+SNHG4,Thyroid cancer
+SNHG4,Esophageal cancer
+SNHG4,Hepatocellular carcinoma
+SNHG4,Prostate cancer
+SNHG4,Osteosarcoma
+SNHG4,Liver cancer
+SNHG4,Cervical cancer
+SNHG4,Acute myeloid leukemia
+SNHG4,Herpes simplex keratitis
+SNHG4,Dysregulated immunity
+SNHG5,Colorectal cancer
+SNHG5,Thyroid cancer
+SNHG5,Esophageal cancer
+SNHG5,Gastric cancer
+SNHG5,Hepatocellular carcinoma
+SNHG5,Osteosarcoma
+SNHG5,Parkinson disease
+SNHG5,Breast cancer
+SNHG5,Glioblastoma
+SNHG5,Glioma
+SNHG5,Liver cancer
+SNHG5,Acute myeloid leukemia
+SNHG5,Bladder cancer
+SNHG5,Ovarian cancer
+SNHG5,Melanoma
+SNHG5,Pre-eclampsia
+SNHG5,Chronic obstructive pulmonary disease
+SNHG5,Lung adenocarcinoma
+SNHG5,T-cell acute lymphoblastic leukemia
+SNHG5,Chronic myeloid leukemia
+SNHG6,Colorectal cancer
+SNHG6,Esophageal cancer
+SNHG6,Gastric cancer
+SNHG6,Hepatocellular carcinoma
+SNHG6,Prostate cancer
+SNHG6,Osteosarcoma
+SNHG6,Muscle-invasive bladder cancer
+SNHG6,Parkinson disease
+SNHG6,Breast cancer
+SNHG6,Glioma
+SNHG6,Non small cell lung carcinoma
+SNHG6,Esophageal squamous cell cancer
+SNHG6,Esophageal squamous cell carcinoma
+SNHG6,Ovarian clear cell carcinoma
+SNHG6,Primary breast cancer
+SNHG6,Wilms tumor
+SNHG6,Colon and rectal adenocarcinoma
+SNHG7,Colorectal cancer
+SNHG7,Lung cancer
+SNHG7,Thyroid cancer
+SNHG7,Esophageal cancer
+SNHG7,Gastric cancer
+SNHG7,Hepatocellular carcinoma
+SNHG7,Prostate cancer
+SNHG7,Osteosarcoma
+SNHG7,Breast cancer
+SNHG7,Pancreatic cancer
+SNHG7,Colon cancer
+SNHG7,Glioblastoma
+SNHG7,Non small cell lung cancer
+SNHG7,Non small cell lung carcinoma
+SNHG7,Cervical cancer
+SNHG7,Neuroblastoma
+SNHG7,Bladder cancer
+SNHG7,Renal cell cancer
+SNHG7,Melanoma
+SNHG7,Uveal melanoma
+SNHG7,Hypopharyngeal cancer
+SNHG7,Cardiac hypertrophy
+SNHG7,Hepatic carcinoma
+SNHG8,Colorectal cancer
+SNHG8,Gastric cancer
+SNHG8,Pancreatic adenocarcinoma
+SNHG8,Muscle-invasive bladder cancer
+SNHG8,Non small cell lung cancer
+SNHG8,Cervical cancer
+SNHG8,Esophageal squamous cell cancer
+SNHG8,Dysregulated immunity
+SNHG9,Colorectal cancer
+SNHG9,Lung cancer
+SNHG9,Esophageal cancer
+SNHG9,Hepatocellular carcinoma
+SNHG9,Pancreatic cancer
+SNHG9,Glioma
+SNHG9,Dysregulated immunity
+SNORA1,Colorectal cancer
+SNORA11E,Diffuse large B cell lymphoma
+SNORA13,West nile virus infection
+SNORA13,Pancreatic ductal adenocarcinoma
+SNORA13,Diffuse large B cell lymphoma
+SNORA14A,Pancreatic ductal adenocarcinoma
+SNORA14A,Lung adenocarcinoma
+SNORA14B,Hepatocellular carcinoma
+SNORA15,Diffuse large B cell lymphoma
+SNORA15,Lung adenocarcinoma
+SNORA15,Cancer
+SNORA16A,Gastric cancer
+SNORA16A,Pancreatic ductal adenocarcinoma
+SNORA16B,Diffuse large B cell lymphoma
+SNORA16B,Lung adenocarcinoma
+SNORA17A,West nile virus infection
+SNORA17A,Gastric cancer
+SNORA17A,Hepatocellular carcinoma
+SNORA17A,Oral squamous cell carcinoma
+SNORA17B,Colorectal cancer
+SNORA17B,Gastric cancer
+SNORA17B,Cancer
+SNORA18,Hepatocellular carcinoma
+SNORA18,Pancreatic ductal adenocarcinoma
+SNORA20,Hepatocellular carcinoma
+SNORA20,Lung adenocarcinoma
+SNORA21,Colorectal cancer
+SNORA21,Diffuse large B cell lymphoma
+SNORA22,Pancreatic ductal adenocarcinoma
+SNORA22,Diffuse large B cell lymphoma
+SNORA22,Lung adenocarcinoma
+SNORA22,Cancer
+SNORA23,West nile virus infection
+SNORA23,Hepatocellular carcinoma
+SNORA23,Diffuse large B cell lymphoma
+SNORA23,Lung adenocarcinoma
+SNORA23,Cancer
+SNORA24,Colorectal cancer
+SNORA24,Gastric cancer
+SNORA24,Hepatocellular carcinoma
+SNORA24,Pancreatic ductal adenocarcinoma
+SNORA24,Lung adenocarcinoma
+SNORA24,Cancer
+SNORA25,Cancer
+SNORA26,Cancer
+SNORA27,Pancreatic ductal adenocarcinoma
+SNORA27,Diffuse large B cell lymphoma
+SNORA27,Cancer
+SNORA28,Pancreatic ductal adenocarcinoma
+SNORA29,Colorectal cancer
+SNORA29,Diffuse large B cell lymphoma
+SNORA2B,Pancreatic ductal adenocarcinoma
+SNORA30,Pancreatic ductal adenocarcinoma
+SNORA30,Cancer
+SNORA31,West nile virus infection
+SNORA31,Gastric cancer
+SNORA32,Diffuse large B cell lymphoma
+SNORA32,Cancer
+SNORA33,West nile virus infection
+SNORA33,Diffuse large B cell lymphoma
+SNORA33,Cancer
+SNORA35,Pancreatic ductal adenocarcinoma
+SNORA35,Diffuse large B cell lymphoma
+SNORA36A,West nile virus infection
+SNORA36A,Diffuse large B cell lymphoma
+SNORA36C,Diffuse large B cell lymphoma
+SNORA36C,Cancer
+SNORA37,Pancreatic ductal adenocarcinoma
+SNORA37,Diffuse large B cell lymphoma
+SNORA3A,Colorectal cancer
+SNORA3A,West nile virus infection
+SNORA3A,Hepatocellular carcinoma
+SNORA3A,Pancreatic ductal adenocarcinoma
+SNORA3A,Diffuse large B cell lymphoma
+SNORA3B,Hepatocellular carcinoma
+SNORA3B,Pancreatic ductal adenocarcinoma
+SNORA3B,Diffuse large B cell lymphoma
+SNORA3B,Cancer
+SNORA4,Colorectal cancer
+SNORA4,Hepatocellular carcinoma
+SNORA4,Pancreatic ductal adenocarcinoma
+SNORA4,Diffuse large B cell lymphoma
+SNORA40,Pancreatic ductal adenocarcinoma
+SNORA40,Diffuse large B cell lymphoma
+SNORA40,Cancer
+SNORA41,Pancreatic ductal adenocarcinoma
+SNORA41,Diffuse large B cell lymphoma
+SNORA41,Cancer
+SNORA44,Pancreatic ductal adenocarcinoma
+SNORA44,Diffuse large B cell lymphoma
+SNORA46,West nile virus infection
+SNORA46,Hepatocellular carcinoma
+SNORA46,Diffuse large B cell lymphoma
+SNORA48,Colorectal cancer
+SNORA48,Pancreatic ductal adenocarcinoma
+SNORA48,Diffuse large B cell lymphoma
+SNORA48,Lung adenocarcinoma
+SNORA48,Cancer
+SNORA49,Diffuse large B cell lymphoma
+SNORA49,Cancer
+SNORA50A,Cancer
+SNORA50C,Colorectal cancer
+SNORA50C,West nile virus infection
+SNORA50C,Gastric cancer
+SNORA51,Cancer
+SNORA52,Pancreatic ductal adenocarcinoma
+SNORA52,Diffuse large B cell lymphoma
+SNORA53,West nile virus infection
+SNORA53,Cancer
+SNORA54,Pancreatic ductal adenocarcinoma
+SNORA54,Diffuse large B cell lymphoma
+SNORA55,Pancreatic ductal adenocarcinoma
+SNORA55,Diffuse large B cell lymphoma
+SNORA55,Lung adenocarcinoma
+SNORA56,Colorectal cancer
+SNORA56,Pancreatic ductal adenocarcinoma
+SNORA56,Diffuse large B cell lymphoma
+SNORA56,Lung adenocarcinoma
+SNORA57,Pancreatic ductal adenocarcinoma
+SNORA57,Lung adenocarcinoma
+SNORA58,Gastric cancer
+SNORA58,Diffuse large B cell lymphoma
+SNORA59B,Diffuse large B cell lymphoma
+SNORA5A,Pancreatic ductal adenocarcinoma
+SNORA5A,Diffuse large B cell lymphoma
+SNORA5A,Lung adenocarcinoma
+SNORA5B,Colorectal cancer
+SNORA5B,Pancreatic ductal adenocarcinoma
+SNORA5B,Diffuse large B cell lymphoma
+SNORA5C,Lung adenocarcinoma
+SNORA6,Hepatocellular carcinoma
+SNORA6,Pancreatic ductal adenocarcinoma
+SNORA60,Diffuse large B cell lymphoma
+SNORA61,West nile virus infection
+SNORA61,Gastric cancer
+SNORA61,Pancreatic ductal adenocarcinoma
+SNORA61,Diffuse large B cell lymphoma
+SNORA61,Lung adenocarcinoma
+SNORA61,Cancer
+SNORA62,Diffuse large B cell lymphoma
+SNORA62,Lung adenocarcinoma
+SNORA63,Cancer
+SNORA64,Pancreatic ductal adenocarcinoma
+SNORA64,Diffuse large B cell lymphoma
+SNORA64,Cancer
+SNORA65,Hepatocellular carcinoma
+SNORA65,Lung adenocarcinoma
+SNORA66,Cancer
+SNORA67,Hepatocellular carcinoma
+SNORA67,Pancreatic ductal adenocarcinoma
+SNORA67,Diffuse large B cell lymphoma
+SNORA67,Cancer
+SNORA68,Colorectal cancer
+SNORA68,Lung adenocarcinoma
+SNORA68,Cancer
+SNORA69,West nile virus infection
+SNORA69,Diffuse large B cell lymphoma
+SNORA69,Lung adenocarcinoma
+SNORA70,Colorectal cancer
+SNORA70,Cancer
+SNORA70B,Pancreatic ductal adenocarcinoma
+SNORA70B,Lung adenocarcinoma
+SNORA70B,Cancer
+SNORA70C,Colorectal cancer
+SNORA70C,Diffuse large B cell lymphoma
+SNORA70C,Lung adenocarcinoma
+SNORA70D,Diffuse large B cell lymphoma
+SNORA70D,Lung adenocarcinoma
+SNORA70D,Cancer
+SNORA70E,Diffuse large B cell lymphoma
+SNORA70E,Lung adenocarcinoma
+SNORA70F,Pancreatic ductal adenocarcinoma
+SNORA70F,Diffuse large B cell lymphoma
+SNORA70F,Lung adenocarcinoma
+SNORA71A,Diffuse large B cell lymphoma
+SNORA71A,Lung adenocarcinoma
+SNORA71A,Cancer
+SNORA71B,Pancreatic ductal adenocarcinoma
+SNORA71B,Lung adenocarcinoma
+SNORA71C,Diffuse large B cell lymphoma
+SNORA71C,Lung adenocarcinoma
+SNORA71D,Diffuse large B cell lymphoma
+SNORA71D,Lung adenocarcinoma
+SNORA72,West nile virus infection
+SNORA72,Hepatocellular carcinoma
+SNORA72,Cancer
+SNORA73A,Gastric cancer
+SNORA73A,Diffuse large B cell lymphoma
+SNORA73A,Lung adenocarcinoma
+SNORA74A,Pancreatic ductal adenocarcinoma
+SNORA74A,Diffuse large B cell lymphoma
+SNORA74A,Lung adenocarcinoma
+SNORA74B,Hepatocellular carcinoma
+SNORA75,Hepatocellular carcinoma
+SNORA75,Pancreatic ductal adenocarcinoma
+SNORA75,Lung adenocarcinoma
+SNORA79,Hepatocellular carcinoma
+SNORA7B,Diffuse large B cell lymphoma
+SNORA8,Pancreatic ductal adenocarcinoma
+SNORA8,Cancer
+SNORA80A,Lung adenocarcinoma
+SNORA80B,Pancreatic ductal adenocarcinoma
+SNORA80B,Lung adenocarcinoma
+SNORA80E,West nile virus infection
+SNORA80E,Pancreatic ductal adenocarcinoma
+SNORA81,West nile virus infection
+SNORA81,Hepatocellular carcinoma
+SNORA81,Pancreatic ductal adenocarcinoma
+SNORA9,Colorectal cancer
+SNORA9,West nile virus infection
+SNORA9,Gastric cancer
+SNORA9,Diffuse large B cell lymphoma
+SNORA9,Lung adenocarcinoma
+SNORD10,West nile virus infection
+SNORD10,Lung cancer
+SNORD10,Gastric cancer
+SNORD10,Osteosarcoma
+SNORD101,Gastric cancer
+SNORD101,Hepatocellular carcinoma
+SNORD102,Cerebral cavernous malformations
+SNORD102,Gastric cancer
+SNORD102,Hepatocellular carcinoma
+SNORD103A,Lung cancer
+SNORD103A,Hepatocellular carcinoma
+SNORD103A,Dysregulated immunity
+SNORD103B,Lung cancer
+SNORD103B,Hepatocellular carcinoma
+SNORD103C,West nile virus infection
+SNORD103C,Gastric cancer
+SNORD104,Lung cancer
+SNORD104,Rheumatoid arthritis
+SNORD104,Gastric cancer
+SNORD104,Dysregulated immunity
+SNORD104,Tuberculosis
+SNORD105,Gastric cancer
+SNORD105,Dysregulated immunity
+SNORD105B,Lung cancer
+SNORD105B,Cerebral cavernous malformations
+SNORD105B,Gastric cancer
+SNORD105B,Gastric carcinoma
+SNORD11,West nile virus infection
+SNORD11,Gastric cancer
+SNORD11,Dysregulated immunity
+SNORD110,Cerebral cavernous malformations
+SNORD110,Gastric cancer
+SNORD111,Gastric cancer
+SNORD111,Dysregulated immunity
+SNORD112,Lung cancer
+SNORD112,Acute promyelocytic leukemia
+SNORD112,Heart failure
+SNORD113-1,Hepatocellular carcinoma
+SNORD113-2,Heart failure
+SNORD113-3,Lung cancer
+SNORD113-3,Cerebral cavernous malformations
+SNORD113-3,Gastric cancer
+SNORD113-4,Oral squamous cell carcinoma
+SNORD113-5,Hepatocellular carcinoma
+SNORD113-5,Uterine leiomyoma
+SNORD113-6,Cerebral cavernous malformations
+SNORD113-6,Gastric cancer
+SNORD113-6,Heart failure
+SNORD113-7,Lung cancer
+SNORD113-7,Cerebral cavernous malformations
+SNORD113-7,Gastric cancer
+SNORD113-8,Lung cancer
+SNORD113-8,Cerebral cavernous malformations
+SNORD113-8,Gastric cancer
+SNORD113-8,Hepatocellular carcinoma
+SNORD113-8,Heart failure
+SNORD113-9,Lung cancer
+SNORD113-9,Cerebral cavernous malformations
+SNORD114-1,Lung cancer
+SNORD114-1,Cerebral cavernous malformations
+SNORD114-1,Gastric cancer
+SNORD114-1,Hepatocellular carcinoma
+SNORD114-1,Acute promyelocytic leukemia
+SNORD114-1,Heart failure
+SNORD114-10,Ovarian cancer
+SNORD114-11,Ovarian cancer
+SNORD114-12,West nile virus infection
+SNORD114-12,Lung cancer
+SNORD114-12,Cerebral cavernous malformations
+SNORD114-12,Gastric cancer
+SNORD114-12,Oral squamous cell carcinoma
+SNORD114-13,Gastric cancer
+SNORD114-14,West nile virus infection
+SNORD114-14,Gastric cancer
+SNORD114-15,Lung cancer
+SNORD114-15,Gastric cancer
+SNORD114-17,Lung cancer
+SNORD114-17,Gastric cancer
+SNORD114-17,Uterine leiomyoma
+SNORD114-2,Ovarian cancer
+SNORD114-20,Gastric cancer
+SNORD114-21,Lung cancer
+SNORD114-21,Gastric cancer
+SNORD114-22,Cerebral cavernous malformations
+SNORD114-22,Gastric cancer
+SNORD114-22,Oral squamous cell carcinoma
+SNORD114-23,Cerebral cavernous malformations
+SNORD114-23,Gastric cancer
+SNORD114-25,Gastric cancer
+SNORD114-26,Cerebral cavernous malformations
+SNORD114-26,Gastric cancer
+SNORD114-28,Gastric cancer
+SNORD114-29,Gastric cancer
+SNORD114-3,Lung cancer
+SNORD114-3,Gastric cancer
+SNORD114-5,Gastric cancer
+SNORD114-9,Gastric cancer
+SNORD115-1,Lung cancer
+SNORD115-1,Breast cancer
+SNORD115-1,Prader-willi syndrome
+SNORD115-10,Cerebral cavernous malformations
+SNORD115-13,Hepatocellular carcinoma
+SNORD115-15,Cerebral cavernous malformations
+SNORD115-16,Cerebral cavernous malformations
+SNORD115-21,Cerebral cavernous malformations
+SNORD115-23,Cerebral cavernous malformations
+SNORD115-31,Hepatocellular carcinoma
+SNORD115-31,Liver cirrhosis
+SNORD115-32,Cerebral cavernous malformations
+SNORD115-33,Cerebral cavernous malformations
+SNORD115-40,Cerebral cavernous malformations
+SNORD115-42,Cerebral cavernous malformations
+SNORD115-8,Cerebral cavernous malformations
+SNORD116@,Prostate cancer
+SNORD116@,Prader-willi syndrome
+SNORD116-1,Gastric cancer
+SNORD116-15,Cerebral cavernous malformations
+SNORD116-16,Gastric cancer
+SNORD116-2,Gastric cancer
+SNORD116-20,Gastric cancer
+SNORD116-21,Cerebral cavernous malformations
+SNORD116-21,Gastric cancer
+SNORD116-24,Cerebral cavernous malformations
+SNORD116-24,Hepatocellular carcinoma
+SNORD116-25,Gastric cancer
+SNORD116-25,Dysregulated immunity
+SNORD116-29,Cerebral cavernous malformations
+SNORD116-3,Gastric cancer
+SNORD117,Gastric cancer
+SNORD117,Prostate cancer
+SNORD117,Dysregulated immunity
+SNORD118,Breast cancer
+SNORD118,Oral squamous cell carcinoma
+SNORD119,Gastric cancer
+SNORD11B,Lung cancer
+SNORD11B,Dysregulated immunity
+SNORD12,Gastric cancer
+SNORD12,Dysregulated immunity
+SNORD121A,Lung cancer
+SNORD121A,Hepatocellular carcinoma
+SNORD121B,Gastric cancer
+SNORD121B,Liver cirrhosis
+SNORD121B,Early hepatocellular carcinoma
+SNORD123,Colorectal cancer
+SNORD123,Gastric cancer
+SNORD124,Gastric cancer
+SNORD125,Gastric cancer
+SNORD126,Colorectal cancer
+SNORD126,Gastric cancer
+SNORD126,Hepatocellular carcinoma
+SNORD127,Gastric cancer
+SNORD12B,Gastric cancer
+SNORD12C,Gastric cancer
+SNORD13,Lung cancer
+SNORD13,Gastric cancer
+SNORD13,Hepatocellular carcinoma
+SNORD14A,West nile virus infection
+SNORD14A,Gastric cancer
+SNORD14B,West nile virus infection
+SNORD14B,Gastric cancer
+SNORD14C,Gastric cancer
+SNORD14C,Tuberculosis
+SNORD14D,Lung cancer
+SNORD14D,Gastric cancer
+SNORD14D,Hepatocellular carcinoma
+SNORD14D,Acute myeloid leukemia
+SNORD14D,Oral squamous cell carcinoma
+SNORD14E,Gastric cancer
+SNORD15A,West nile virus infection
+SNORD15A,Cerebral cavernous malformations
+SNORD15A,Gastric cancer
+SNORD15B,Gastric cancer
+SNORD15B,Prostate cancer
+SNORD15B,Breast cancer
+SNORD16,West nile virus infection
+SNORD16,Lung cancer
+SNORD16,Gastric cancer
+SNORD16,Uterine leiomyoma
+SNORD18A,Gastric cancer
+SNORD18A,Oral squamous cell carcinoma
+SNORD18B,Lung cancer
+SNORD18B,Gastric cancer
+SNORD18C,Gastric cancer
+SNORD19,Gastric cancer
+SNORD19B,Lung cancer
+SNORD19B,Gastric cancer
+SNORD19B,Hepatocellular carcinoma
+SNORD19B,Dysregulated immunity
+SNORD1A,Gastric cancer
+SNORD1A,Hepatocellular carcinoma
+SNORD1B,Gastric cancer
+SNORD1C,West nile virus infection
+SNORD1C,Lung cancer
+SNORD1C,Gastric cancer
+SNORD2,Gastric cancer
+SNORD2,Hepatocellular carcinoma
+SNORD20,Gastric cancer
+SNORD20,Dysregulated immunity
+SNORD21,Gastric cancer
+SNORD21,Dysregulated immunity
+SNORD22,Gastric cancer
+SNORD22,Prostate cancer
+SNORD22,Breast cancer
+SNORD22,Pancreatic ductal adenocarcinoma
+SNORD23,West nile virus infection
+SNORD23,Dysregulated immunity
+SNORD24,Gastric cancer
+SNORD24,Dysregulated immunity
+SNORD24,Adenocarcinoma
+SNORD25,Lung cancer
+SNORD25,Gastric cancer
+SNORD26,Gastric cancer
+SNORD27,Lung cancer
+SNORD27,Gastric cancer
+SNORD28,Lung cancer
+SNORD28,Gastric cancer
+SNORD28,Oral squamous cell carcinoma
+SNORD30,Lung cancer
+SNORD30,Dysregulated immunity
+SNORD31,Gastric cancer
+SNORD31,Dysregulated immunity
+SNORD32A,Cerebral cavernous malformations
+SNORD32A,Dysregulated immunity
+SNORD33,Colorectal cancer
+SNORD33,Lung cancer
+SNORD33,Rheumatoid arthritis
+SNORD33,Gastric cancer
+SNORD33,Prostate cancer
+SNORD33,Non small cell lung carcinoma
+SNORD33,Dysregulated immunity
+SNORD33,Lung carcinoma
+SNORD34,Gastric cancer
+SNORD34,Dysregulated immunity
+SNORD35A,West nile virus infection
+SNORD35A,Gastric cancer
+SNORD35A,Acute myeloid leukemia
+SNORD35A,Dysregulated immunity
+SNORD35B,Gastric cancer
+SNORD35B,Head and neck squamous cell carcinoma
+SNORD36A,Lung cancer
+SNORD36A,Gastric cancer
+SNORD36A,Uterine leiomyoma
+SNORD36B,Cerebral cavernous malformations
+SNORD36B,Gastric cancer
+SNORD36C,Hepatocellular carcinoma
+SNORD37,Lung cancer
+SNORD37,Cerebral cavernous malformations
+SNORD37,Gastric cancer
+SNORD37,Liver cirrhosis
+SNORD37,Early hepatocellular carcinoma
+SNORD38A,Gastric cancer
+SNORD38A,Dysregulated immunity
+SNORD38B,Lung cancer
+SNORD38B,Gastric cancer
+SNORD3A,West nile virus infection
+SNORD3A,Gastric cancer
+SNORD3A,Prostate cancer
+SNORD3A,Breast cancer
+SNORD3A,Glioma
+SNORD3A,Psoriatic arthritis
+SNORD3B-1,Gastric cancer
+SNORD3B-2,Gastric cancer
+SNORD3C,Gastric cancer
+SNORD3D,Lung cancer
+SNORD3D,Gastric cancer
+SNORD3P3,Gastric cancer
+SNORD3P3,Hepatocellular carcinoma
+SNORD41,Gastric cancer
+SNORD41,Hepatocellular carcinoma
+SNORD42A,Cerebral cavernous malformations
+SNORD42A,Gastric cancer
+SNORD42B,Cerebral cavernous malformations
+SNORD42B,Gastric cancer
+SNORD43,Gastric cancer
+SNORD43,Breast cancer
+SNORD43,Acute myeloid leukemia
+SNORD44,Gastric cancer
+SNORD44,Hepatocellular carcinoma
+SNORD44,Breast cancer
+SNORD45A,Gastric cancer
+SNORD45B,Dysregulated immunity
+SNORD45C,Gastric cancer
+SNORD46,Lung cancer
+SNORD46,Gastric cancer
+SNORD47,Gastric cancer
+SNORD47,Glioblastoma
+SNORD47,Dysregulated immunity
+SNORD48,Gastric cancer
+SNORD48,Breast cancer
+SNORD49A,Gastric cancer
+SNORD49B,Lung cancer
+SNORD49B,Gastric cancer
+SNORD49B,Hepatocellular carcinoma
+SNORD49B,Uterine leiomyoma
+SNORD4A,Lung cancer
+SNORD4A,Gastric cancer
+SNORD4A,Oral squamous cell carcinoma
+SNORD4B,Lung cancer
+SNORD4B,Gastric cancer
+SNORD5,Lung cancer
+SNORD5,Gastric cancer
+SNORD50A,Gastric cancer
+SNORD50A,Breast cancer
+SNORD50A,B-cell lymphoma
+SNORD50A,Prostate carcinoma
+SNORD50A,Prostatic neoplasms
+SNORD50B,Hepatocellular carcinoma
+SNORD51,Lung cancer
+SNORD51,Gastric cancer
+SNORD52,Cerebral cavernous malformations
+SNORD52,Gastric cancer
+SNORD52,Dysregulated immunity
+SNORD52,Uterine leiomyoma
+SNORD53,Gastric cancer
+SNORD53,Dysregulated immunity
+SNORD54,Lung cancer
+SNORD54,Gastric cancer
+SNORD54,Uterine leiomyoma
+SNORD55,Gastric cancer
+SNORD55,Dysregulated immunity
+SNORD56,Gastric cancer
+SNORD56,Uterine leiomyoma
+SNORD57,Gastric cancer
+SNORD58A,Gastric cancer
+SNORD58B,Gastric cancer
+SNORD58B,Dysregulated immunity
+SNORD58C,Gastric cancer
+SNORD59A,Cerebral cavernous malformations
+SNORD59A,Gastric cancer
+SNORD59A,Prostate cancer
+SNORD59A,Dysregulated immunity
+SNORD59B,Lung cancer
+SNORD59B,Gastric cancer
+SNORD59B,Dysregulated immunity
+SNORD6,Cerebral cavernous malformations
+SNORD6,Gastric cancer
+SNORD60,Lung cancer
+SNORD60,Cerebral cavernous malformations
+SNORD60,Gastric cancer
+SNORD60,Dysregulated immunity
+SNORD61,Cerebral cavernous malformations
+SNORD61,Gastric cancer
+SNORD62A,West nile virus infection
+SNORD62A,Gastric cancer
+SNORD62A,Dysregulated immunity
+SNORD62B,Gastric cancer
+SNORD63,Lung cancer
+SNORD63,Gastric cancer
+SNORD64,Cerebral cavernous malformations
+SNORD64,Hepatocellular carcinoma
+SNORD64,Prader-willi syndrome
+SNORD65,Gastric cancer
+SNORD66,Lung cancer
+SNORD66,Gastric cancer
+SNORD66,Hepatocellular carcinoma
+SNORD66,Non small cell lung carcinoma
+SNORD66,Dysregulated immunity
+SNORD67,Gastric cancer
+SNORD67,Dysregulated immunity
+SNORD68,Cerebral cavernous malformations
+SNORD68,Prostate cancer
+SNORD69,Cerebral cavernous malformations
+SNORD7,West nile virus infection
+SNORD7,Gastric cancer
+SNORD70,Gastric cancer
+SNORD71,West nile virus infection
+SNORD71,Dysregulated immunity
+SNORD72,Lung cancer
+SNORD72,Gastric cancer
+SNORD72,Hepatocellular carcinoma
+SNORD73A,Lung cancer
+SNORD73A,Gastric cancer
+SNORD73A,Uterine leiomyoma
+SNORD74,Gastric cancer
+SNORD74,Acute myeloid leukemia
+SNORD75,Lung cancer
+SNORD75,Gastric cancer
+SNORD75,Hepatocellular carcinoma
+SNORD76,Colorectal cancer
+SNORD76,Lung cancer
+SNORD76,Gastric cancer
+SNORD76,Hepatocellular carcinoma
+SNORD76,Glioblastoma
+SNORD76,Malignant glioma
+SNORD77,Lung cancer
+SNORD77,Gastric cancer
+SNORD77,Hepatocellular carcinoma
+SNORD78,Colorectal cancer
+SNORD78,Lung cancer
+SNORD78,Gastric cancer
+SNORD78,Hepatocellular carcinoma
+SNORD78,Prostate cancer
+SNORD78,Non small cell lung carcinoma
+SNORD79,West nile virus infection
+SNORD79,Lung cancer
+SNORD79,Gastric cancer
+SNORD80,Gastric cancer
+SNORD81,Gastric cancer
+SNORD81,Hepatocellular carcinoma
+SNORD82,Gastric cancer
+SNORD82,Hepatocellular carcinoma
+SNORD82,Prostate cancer
+SNORD83A,Gastric cancer
+SNORD83B,Cerebral cavernous malformations
+SNORD83B,Gastric cancer
+SNORD84,Gastric cancer
+SNORD84,Oral squamous cell carcinoma
+SNORD84,Dysregulated immunity
+SNORD87,Gastric cancer
+SNORD88A,Lung cancer
+SNORD88A,Gastric cancer
+SNORD88A,Hepatocellular carcinoma
+SNORD88A,Dysregulated immunity
+SNORD88B,Lung cancer
+SNORD88C,Gastric cancer
+SNORD88C,Hepatocellular carcinoma
+SNORD88C,Dysregulated immunity
+SNORD89,Lung cancer
+SNORD89,Rheumatoid arthritis
+SNORD89,Gastric cancer
+SNORD89,Prostate cancer
+SNORD89,Breast cancer
+SNORD89,Ovarian cancer
+SNORD89,Dysregulated immunity
+SNORD89,Epstein-barr virus infections
+SNORD90,West nile virus infection
+SNORD90,Cerebral cavernous malformations
+SNORD90,Hepatocellular carcinoma
+SNORD91B,Gastric cancer
+SNORD92,Gastric cancer
+SNORD93,Cerebral cavernous malformations
+SNORD93,Gastric cancer
+SNORD94,Gastric cancer
+SNORD94,Prostate cancer
+SNORD94,Osteosarcoma
+SNORD94,Breast cancer
+SNORD94,Dysregulated immunity
+SNORD94,Uterine leiomyoma
+SNORD96A,Gastric cancer
+SNORD96A,Uterine leiomyoma
+SNORD97,West nile virus infection
+SNORD97,Gastric cancer
+SNORD97,Prostate cancer
+SNORD97,Breast cancer
+SNORD98,Lung cancer
+SNORD98,Gastric cancer
+SNORD99,Lung cancer
+SNORD99,Gastric cancer
+TERC,West nile virus infection
+TERC,Lung cancer
+TERC,Esophageal cancer
+TERC,Gastric cancer
+TERC,Hepatocellular carcinoma
+TERC,Breast cancer
+TERC,Pancreatic cancer
+TERC,Ovarian carcinoma
+TERC,Neuroblastoma
+TERC,Esophagus adenocarcinoma
+TERC,Melanoma
+TERC,Prostatic neoplasms
+TERC,Malignant glioma
+TERC,Stomach cancer
+TERC,Urinary bladder cancer
+TERC,Colon carcinoma
+TERC,Gallbladder cancer
+TERC,Liposarcoma
+TERC,Meningioma
+TERC,Uterine cervical neoplasm
+TERC,Renal carcinoma
+TERC,Lung small cell carcinoma
+TERC,Mouth neoplasms
+TERC,Lymphosarcoma
+TERC,Breast neoplasms

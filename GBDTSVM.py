@@ -18,7 +18,7 @@ from sklearn.metrics import f1_score
 
 
 # Define input and output directories
-input_data_dir = "data"
+input_data_dir = "Data"
 output_dir = "results"
 
 # Ensure the output directory exists
@@ -27,9 +27,9 @@ os.makedirs(output_dir, exist_ok=True)
 # Read CSV files using the input data directory path
 disease_name = pd.read_csv(os.path.join(input_data_dir, 'disease_name.csv'))
 snoRNA_name = pd.read_csv(os.path.join(input_data_dir, 'snoRNA_name.csv'))
-SnoRNA_similarity = pd.read_csv(os.path.join(output_dir, 'IRS_matrix.csv'), header=None)
+SnoRNA_similarity = pd.read_csv(os.path.join(input_data_dir, 'IRS_matrix.csv'), header=None)
 known_association = pd.read_csv(os.path.join(input_data_dir, 'known_snoRNA_disease.csv'), header=None)
-disease_similarity = pd.read_csv(os.path.join(output_dir, 'IDS_matrix.csv'), header=None)
+disease_similarity = pd.read_csv(os.path.join(input_data_dir, 'IDS_matrix.csv'), header=None)
 
 print(f"Starting the GBDT association framework for {len(disease_name)} diseases and {len(snoRNA_name)} snoRNAs")
 
@@ -298,6 +298,7 @@ for data in unknown:
     b1 = snoRNA_functional_similarity[data[0], :].tolist()
     q1 = a1 + b1
     unknown_pair.append(q1)
+    print(f"Predicting for unknown pair: {data}, with disease index: {data[1]} and snoRNA index: {data[0]}")
 
 #so far we have used certain number of samples from all the clustered unknown pairs, but now will predict for all the unknown pairs whether they have association or not
 # here x1 contains the concatanated semantic similarity of diseases and functional similarity of snoRNAs of all unknown pairs
