@@ -1,0 +1,100 @@
+0,34,1.0    ('GAS5', 'Gastric cancer')              lncRNA 	Homo sapiens 	Gastric Cancer 	1
+1,34,1.0    ('MEG8', 'Gastric cancer')              Not Found
+1,42,1.0    ('MEG8', 'Hepatocellular carcinoma')    lncRNA 	Homo sapiens 	Hepatocellular Carcinoma 	1
+6,7,1.0     ('RNU2-1', 'Breast cancer')             Not Found
+6,12,1.0    ('RNU2-1', 'Cervical cancer')           Not Found
+6,29,1.0    ('RNU2-1', 'Esophageal cancer')         Not Found
+6,36,1.0    ('RNU2-1', 'Glioblastoma')              Not Found
+6,37,1.0    ('RNU2-1', 'Glioma')                    Not Found
+6,42,1.0    ('RNU2-1', 'Hepatocellular carcinoma')  Not Found
+6,46,1.0    ('RNU2-1', 'Laryngeal cancer')          Not Found
+6,50,1.0    ('RNU2-1', 'Liver cancer')              Not Found
+6,54,1.0    ('RNU2-1', 'Lung cancer')               snRNA 	Homo sapiens 	Lung Cancer 	0.694506
+6,71,1.0
+6,72,1.0
+6,76,1.0    ('RNU2-1', 'Osteosarcoma')              Not Found
+6,77,1.0    ('RNU2-1', 'Ovarian cancer')            Not Found
+6,91,1.0    ('RNU2-1', 'Prostate cancer')           Not Found
+6,102,1.0   ('RNU2-1', 'Thyroid cancer')            Not Found
+10,11,1.0   ('SCARNA10', 'Cerebral cavernous malformations')    Not Found
+10,24,1.0   ('SCARNA10', 'Dysregulated immunity')   Not Found
+10,42,1.0   ('SCARNA10', 'Hepatocellular carcinoma')Not Found
+10,54,1.0   ('SCARNA10', 'Hepatocellular carcinoma')Not Found
+19,42,1.0   ('SCARNA2', 'Hepatocellular carcinoma') Not Found
+23,7,1.0    ('SCARNA5', 'Breast cancer')            Not Found
+23,34,1.0   ('SCARNA5', 'Gastric cancer')           lncRNA 	Homo sapiens 	Gastric Cancer 	0.694506
+23,54,1.0   ('SCARNA5', 'Lung cancer')              Not Found
+25,11,1.0   ('SCARNA8', 'Cerebral cavernous malformations')     Not Found
+26,34,1.0   ('SCARNA9', 'Gastric cancer')           Not Found
+26,42,1.0   ('SCARNA9', 'Hepatocellular carcinoma') Not Found
+27,6,1.0    ('SNHG1', 'Bladder cancer')             lncRNA 	Homo sapiens 	Breast Cancer 	1 
+27,11,1.0   ('SNHG1', 'Cerebral cavernous malformations')       Not Found
+27,24,1.0   ('SNHG1', 'Dysregulated immunity')      Not Found
+27,25,1.0   ('SNHG1', 'Early hepatocellular carcinoma') Related lncRNA 	Homo sapiens 	Hepatocellular Carcinoma 	1
+27,74,1.0   ('SNHG1', 'Oral squamous cell carcinoma')   lncRNA 	Homo sapiens 	Oral Squamous Cell Carcinoma 	0.99998
+27,77,1.0   ('SNHG1', 'Ovarian cancer')             lncRNA 	Homo sapiens 	Ovarian Cancer 	0.999999
+27,84,1.0   ('SNHG1', 'Papillary thyroid carcinoma')Not Found
+27,98,1.0   ('SNHG1', 'Retinoblastoma')             Not Found
+27,110,1.0  ('SNHG1', 'West nile virus infection')  Not Found
+28,34,1.0   ('SNHG10', 'Gastric cancer')            lncRNA 	Homo sapiens 	Gastric Cancer 	1
+29,34,1.0   ('SNHG11', 'Gastric cancer')            lncRNA 	Homo sapiens 	Gastric Cancer 	1
+30,0,1.0    ('SNHG12', 'Acute myeloid leukemia')`   Not Found
+30,7,1.0    ('SNHG12', 'Breast cancer')             lncRNA 	Homo sapiens 	Breast Cancer 	1
+30,11,1.0   ('SNHG12', 'Cerebral cavernous malformations')  Not Found
+30,18,1.0   ('SNHG12', 'Colon cancer')              Not Found
+30,24,1.0   ('SNHG12', 'Dysregulated immunity')     Not Found
+30,31,1.0   ('SNHG12', 'Esophageal squamous cell carcinoma')    lncRNA 	Homo sapiens 	Esophageal Squamous Cell Cancer 	1   lncRNA 	Homo sapiens 	Esophagus Squamous Cell Carcinoma 	1
+30,46,1.0   ('SNHG12', 'Laryngeal cancer')          lncRNA 	Homo sapiens 	Laryngeal Cancer 	0.999999
+30,54,1.0   ('SNHG12', 'Lung cancer')               lncRNA 	Homo sapiens 	Lung Cancer 	0.694506 	
+30,57,1.0   ('SNHG12', 'Lung squamous cell carcinoma')   Not Found
+30,65,1.0   ('SNHG12', 'Muscle-invasive bladder cancer') Not Found
+30,72,1.0   ('SNHG12', 'Non small cell lung carcinoma') lncRNA 	Homo sapiens 	Lung Non-Small Cell Carcinoma 	0.973352
+30,74,1.0   ('SNHG12', 'Oral squamous cell carcinoma')  lncRNA 	Homo sapiens 	Oral Squamous Cell Carcinoma 	0.999999
+30,81,1.0   ('SNHG12', 'Pancreatic cancer')         lncRNA 	Homo sapiens 	Pancreatic Cancer 	0.99998
+30,85,1.0   ('SNHG12', 'Parkinson disease')         lncRNA 	Homo sapiens 	Pancreatic Cancer 	0.99998
+30,102,1.0  ('SNHG12', 'Thyroid cancer')            Not Found
+30,110,1.0  ('SNHG12', 'West nile virus infection') Not Found
+31,0,1.0    ('SNHG14', 'Acute myeloid leukemia')    lncRNA 	Homo sapiens 	Acute Myeloid Leukemia 	1
+31,16,1.0   ('SNHG14', 'Clear cell renal cell carcinoma')   lncRNA 	Homo sapiens 	Clear Cell Renal Cell Carcinoma 	0.99998
+31,24,1.0   ('SNHG14', 'Dysregulated immunity')     Not Found
+31,36,1.0   ('SNHG14', 'Glioblastoma')              Not Found
+31,50,1.0   ('SNHG14', 'Liver cancer')              Not Found
+31,54,1.0   ('SNHG14', 'Lung cancer')               Related
+31,76,1.0   ('SNHG14', 'Osteosarcoma')              lncRNA 	Homo sapiens 	Osteosarcoma 	1
+31,91,1.0   ('SNHG14', 'Prostate cancer')           lncRNA 	Homo sapiens 	Prostate Cancer 	0.99998
+31,110,1.0  ('SNHG14', 'West nile virus infection') Not Found
+32,0,1.0    ('SNHG15', 'Acute myeloid leukemia')    lncRNA 	Homo sapiens 	Acute Myeloid Leukemia 	0.328976
+32,16,1.0   ('SNHG15', 'Clear cell renal cell carcinoma')   lncRNA 	Homo sapiens 	Cell Renal Cell Carcinoma 	0.328976
+32,24,1.0   ('SNHG15', 'Dysregulated immunity')     Not Found
+32,50,1.0   ('SNHG15', 'Liver cancer')              lncRNA 	Homo sapiens 	Liver Cancer 	1
+32,110,1.0  ('SNHG15', 'West nile virus infection') Not Found
+33,0,1.0    ('SNHG16', 'Acute myeloid leukemia')    Not Found
+33,9,1.0    ('SNHG16', 'Cancer')                    lncRNA 	Homo sapiens 	Cancer 	0.328976
+33,16,1.0   ('SNHG16', 'Clear cell renal cell carcinoma')       lncRNA 	Homo sapiens 	Clear Cell Renal Cell Carcinoma 	1
+33,22,1.0   ('SNHG16', 'Colorectal carcinoma')      Related     lncRNA 	Homo sapiens 	Hepatocellular Carcinoma 	1
+33,25,1.0   ('SNHG16', 'Early hepatocellular carcinoma')    Related     lncRNA 	Homo sapiens 	Hepatocellular Carcinoma 	1
+33,30,1.0   ('SNHG16', 'Esophageal squamous cell cancer')   lncRNA 	Homo sapiens 	Esophageal Squamous Cell Cancer 	1
+33,36,1.0   ('SNHG16', 'Glioblastoma')              lncRNA 	Homo sapiens 	Glioblastoma 	0.328976
+33,46,1.0   ('SNHG16', 'Laryngeal cancer')          Not Found
+33,47,1.0   ('SNHG16', 'Laryngeal squamous cell carcinoma') lncRNA 	Homo sapiens 	Laryngeal Squamous Cell Carcinoma 	1
+33,53,1.0   ('SNHG16', 'Lung adenocarcinoma')       Not Found
+33,54,1.0   ('SNHG16', 'Lung cancer')               Not Found
+33,57,1.0   ('SNHG16', 'Lung squamous cell carcinoma')  Related
+33,68,1.0   ('SNHG16', 'Nasopharyngeal carcinoma')  lncRNA 	Homo sapiens 	Nasopharynx Carcinoma 	0.328976
+33,82,1.0   ('SNHG16', 'Pancreatic ductal adenocarcinoma')  Not Found
+33,84,1.0   ('SNHG16', 'Papillary thyroid carcinoma')       lncRNA 	Homo sapiens 	Papillary Thyroid Carcinoma 	0.973352
+33,85,1.0   ('SNHG16', 'Parkinson disease')         Not Found
+33,91,1.0   ('SNHG16', 'Prostate cancer')           lncRNA 	Homo sapiens 	Prostate Cancer 	0.90146
+33,97,1.0   ('SNHG16', 'Renal cell carcinoma')      Not Found
+33,110,1.0  ('SNHG16', 'West nile virus infection') Not Found
+37,0,1.0    ('SNHG20', 'Acute myeloid leukemia')    Not Found
+37,12,1.0   ('SNHG20', 'Cervical cancer')           lncRNA 	Homo sapiens 	Cervical Cancer 	1
+37,21,1.0   ('SNHG20', 'Colorectal cancer')         lncRNA 	Homo sapiens 	Colorectal Cancer 	1
+37,24,1.0   ('SNHG20', 'Dysregulated immunity')     Not Found
+37,29,1.0   ('SNHG20', 'Esophageal cancer')         Not Found
+37,50,1.0   ('SNHG20', 'Liver cancer')              Not Found
+37,54,1.0   ('SNHG20', 'Lung cancer')               lncRNA 	Homo sapiens 	Lung Cancer 	0.694506
+37,102,1.0  ('SNHG20', 'Thyroid cancer')            Not Found
+37,110,1.0  ('SNHG20', 'West nile virus infection') Not Found
+41,24,1.0   ('SNHG3', 'Dysregulated immunity')      Not Found
+41,54,1.0   ('SNHG3', 'Lung cancer')                Related

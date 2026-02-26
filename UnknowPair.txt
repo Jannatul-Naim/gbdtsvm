@@ -1,0 +1,100 @@
+40,42,0.9999984502792358    ('SNHG25',      'Hepatocellular carcinoma')          SNHG25* 	lncRNA 	Homo sapiens 	Hepatocellular Carcinoma 	0.328976 
+275,42,0.9999984502792358   ('SNORD4B', 'Hepatocellular carcinoma')         Not Found
+303,24,0.9999984502792358   ('SNORD7', 'Dysregulated immunity')             Not Found
+334,84,0.9999984502792358   ('TERC', 'Papillary thyroid carcinoma')         TERC* 	lncRNA 	Homo sapiens 	Papillary Thyroid Cancer 	0.90146
+39,41,0.9999983310699463    ('SNHG22', 'Hepatic carcinoma')                 Not Found
+72,82,0.9999983310699463    ('SNORA32', 'Pancreatic ductal adenocarcinoma') Not Found
+125,110,0.9999983310699463  ('SNORA74B', 'West nile virus infection')       Not Found
+137,54,0.9999983310699463   ('SNORD102', 'Lung cancer')                     Not Found 
+202,24,0.9999983310699463   ('SNORD118', 'Dysregulated immunity')           Not Found  
+330,54,0.9999983310699463   ('SNORD96A', 'Lung cancer')                     Not Found
+14,42,0.9999982118606567    ('SCARNA14', 'Hepatocellular carcinoma')        Not Found    
+20,97,0.9999982118606567    ('SCARNA22', 'Renal cell carcinoma')            Not Found
+30,61,0.9999982118606567    ('SNHG12', 'Melanoma')                          Not Found
+44,0,0.9999982118606567     ('SNHG6', 'Acute myeloid leukemia')             Not Found
+106,53,0.9999982118606567   ('SNORA64', 'Lung adenocarcinoma')              Not Found
+267,42,0.9999982118606567   ('SNORD45B', 'Hepatocellular carcinoma')        Not Found  
+276,42,0.9999982118606567   ('SNORD5', 'Hepatocellular carcinoma')          Not Found     
+330,24,0.9999982118606567   ('SNORD96A', 'Dysregulated immunity')           Not Found   
+334,16,0.9999982118606567   ('TERC', 'Clear cell renal cell carcinoma')     Not Found  
+10,82,0.9999979734420776    ('SCARNA10', 'Pancreatic ductal adenocarcinoma')Not Found   
+27,87,0.9999979734420776    ('SNHG1', 'Pneumonia')                          Not Found  
+30,26,0.9999979734420776    ('SNHG12', 'Epithelial ovarian cancer')         Not Found
+81,53,0.9999979734420776    ('SNORA40', 'Lung adenocarcinoma')              Not Found    
+192,11,0.9999979734420776   ('SNORD116-15', 'Cerebral cavernous malformations')SNORD116-15* 	snoRNA 	Homo sapiens 	Cerebral Cavernous Malformation 	0.328976
+231,24,0.9999979734420776   ('SNORD1C', 'Dysregulated immunity')            Not Found
+13,24,0.9999978542327881    ('SCARNA13', 'Dysregulated immunity')           Not Found
+236,9,0.9999978542327881    ('SNORD23', 'Cancer')                           Not Found
+249,42,0.9999978542327881   ('SNORD36A', 'Hepatocellular carcinoma')        Not Found
+311,24,0.9999978542327881   ('SNORD77', 'Dysregulated immunity')            Not Found
+125,34,0.9999977350234985   ('SNORA74B', 'Gastric cancer')                  Not Found
+157,24,0.9999977350234985   ('SNORD114-1', 'Dysregulated immunity')         Not Found
+41,36,0.999997615814209     ('SNHG3', 'Glioblastoma')                       Not Found 
+210,42,0.999997615814209    ('SNORD125', 'Hepatocellular carcinoma')        Not Found
+297,54,0.999997615814209    ('SNORD64', 'Lung cancer')                      Not Found
+48,23,0.9999974966049194    ('SNORA1', 'Diffuse large B cell lymphoma')     Not Found 
+92,9,0.9999974966049194     ('SNORA54', 'Cancer')                           Not Found
+306,24,0.9999974966049194   ('SNORD72', 'Dysregulated immunity')            Not Found
+34,102,0.9999973773956299   ('SNHG17', 'Thyroid cancer')                    Not Found   
+44,53,0.9999973773956299    ('SNHG6', 'Lung adenocarcinoma')                SNHG6 	lncRNA 	Homo sapiens 	Lung Adenocarcinoma 	0.90146  
+292,42,0.9999973773956299   ('SNORD60', 'Hepatocellular carcinoma')         Not Found
+333,11,0.9999973773956299   ('SNORD99', 'Cerebral cavernous malformations') Not Found
+27,64,0.9999972581863403    ('SNHG1', 'Multiple myeloma')                   Not Found
+33,68,0.9999972581863403    ('SNHG16', 'Nasopharyngeal carcinoma')          SNHG1* 	lncRNA 	Homo sapiens 	Nasopharynx Carcinoma 	0.999998
+191,39,0.9999972581863403   ('SNORD116-1', 'Heart failure')                 Not Found  
+9,9,0.9999971389770508      ('RNVU1-7', 'Cancer')                           Not Found
+22,42,0.9999971389770508    ('SCARNA4', 'Hepatocellular carcinoma')         Not Found
+36,16,0.9999971389770508    ('SNHG19', 'Clear cell renal cell carcinoma')   Not Found
+186,39,0.9999971389770508   ('SNORD115-33', 'Heart failure')                Not Found   
+334,27,0.9999971389770508   ('TERC', 'Epithelial ovarian carcinoma')        Not Found
+334,88,0.9999971389770508   ('TERC', 'Prader-willi syndrome')               Not Found
+33,69,0.9999970197677612    ('SNHG16', 'Neuroblastoma')                     SNHG16* 	lncRNA 	Homo sapiens 	Neuroblastoma 	1
+42,81,0.9999970197677612    ('SNHG4', 'Pancreatic cancer')                  Not Found
+64,82,0.9999969005584717    ('SNORA25', 'Pancreatic ductal adenocarcinoma') Not Found
+314,54,0.9999969005584717   ('SNORD80', 'Lung cancer')                      Not Found
+20,47,0.9999967813491821    ('SCARNA22', 'Laryngeal squamous cell carcinoma')Not Found
+31,85,0.9999967813491821    ('SNHG14', 'Parkinson disease')                 Not Found   
+34,110,0.9999967813491821   ('SNHG17', 'West nile virus infection')         Not Found
+100,41,0.9999967813491821   ('SNORA5C', 'Hepatic carcinoma')                Not Found
+159,39,0.9999967813491821   ('SNORD113-6', 'Heart failure')                 Not Found
+189,39,0.9999967813491821   ('SNORD115-8', 'Heart failure')                 Not Found
+197,42,0.9999966621398926   ('SNORD116-24', 'Hepatocellular carcinoma')     SNORD116-24* 	snoRNA 	Homo sapiens 	Hepatocellular Carcinoma 	0.328976
+261,24,0.9999966621398926   ('SNORD41', 'Dysregulated immunity')            Not Found
+27,74,0.999996542930603     ('SNHG1', 'Oral squamous cell carcinoma')       SNHG1* 	lncRNA 	Homo sapiens 	Oral Squamous Cell Carcinoma 	0.99998
+43,99,0.999996542930603     ('SNHG5', 'Rheumatoid arthritis')               Not Found
+331,24,0.999996542930603    ('SNORD97', 'Dysregulated immunity')            Not Found
+42,77,0.9999964237213135    ('SNHG4', 'Ovarian cancer')                     Not Found
+214,110,0.9999964237213135  ('SNORD12C', 'West nile virus infection')       Not Found
+220,24,0.9999964237213135   ('SNORD14E', 'Dysregulated immunity')           Not Found
+274,24,0.9999964237213135   ('SNORD4A', 'Dysregulated immunity')            Not Found
+172,39,0.9999963045120239   ('SNORD114-28', 'Heart failure')                Not Found
+143,74,0.9999961853027344   ('SNORD105B', 'Oral squamous cell carcinoma')   Not Found
+277,110,0.9999961853027344  ('SNORD50A', 'West nile virus infection')       Not Found
+31,18,0.9999960660934448    ('SNHG14', 'Colon cancer')                      SNHG14* 	lncRNA 	Homo sapiens 	Colorectal Cancer 	1
+160,24,0.9999960660934448   ('SNORD114-12', 'Dysregulated immunity')        Not Found
+176,99,0.9999960660934448   ('SNORD114-9', 'Rheumatoid arthritis')          Not Found
+191,53,0.9999960660934448   ('SNORD116-1', 'Lung adenocarcinoma')           Not Found
+221,54,0.9999960660934448   ('SNORD15A', 'Lung cancer')                     Not Found
+10,9,0.9999959468841553     ('SCARNA10', 'Cancer')                          Not Found
+39,52,0.9999959468841553    ('SNHG22', 'Liver fibrosis')                    Not Found
+84,9,0.9999959468841553     ('SNORA46', 'Cancer')                           Not Found     
+310,7,0.9999959468841553    ('SNORD76', 'Breast cancer')                    Not Found
+334,55,0.9999959468841553   ('TERC', 'Lung carcinoma')                      TERC 	lncRNA 	Homo sapiens 	Lung Squamous Cell Carcinoma 	0.90146  
+36,82,0.9999958276748657    ('SNHG19', 'Pancreatic ductal adenocarcinoma')  Not Found
+312,7,0.9999958276748657    ('SNORD78', 'Breast cancer')                    Not Found
+214,54,0.9999955892562866   ('SNORD12C', 'Lung cancer')                     Not Found
+37,47,0.9999954700469971    ('SNHG20', 'Laryngeal squamous cell carcinoma') SNHG20 	lncRNA 	Homo sapiens 	Laryngeal Squamous Cell Cancer 	0.999141
+149,52,0.9999954700469971   ('SNORD113-2', 'Liver fibrosis')                Don't Exist
+20,0,0.9999953508377075     ('SCARNA22', 'Acute myeloid leukemia')          Not Found
+126,23,0.9999953508377075   ('SNORA75', 'Diffuse large B cell lymphoma')    Not Found
+262,54,0.9999953508377075   ('SNORD42A', 'Lung cancer')                     Not Found   
+63,23,0.999995231628418     ('SNORA24', 'Diffuse large B cell lymphoma')    Not Found
+76,53,0.999995231628418     ('SNORA36C', 'Lung adenocarcinoma')             Not Found    
+90,53,0.999995231628418     ('SNORA52', 'Lung adenocarcinoma')              Not Found 
+99,53,0.999995231628418     ('SNORA5B', 'Lung adenocarcinoma')              Not Found
+30,78,0.9999951124191284    ('SNHG12', 'Ovarian carcinoma')                 Not Found
+308,24,0.9999951124191284   ('SNORD74', 'Dysregulated immunity')            Not Found
+334,30,0.9999951124191284   ('TERC', 'Esophageal squamous cell cancer')     Not Found
+10,75,0.9999949932098389    ('SCARNA10', 'Osteoarthritis')                  Not Found
+24,42,0.9999949932098389    ('SCARNA7', 'Hepatocellular carcinoma')         Not Found
+325,24,0.9999949932098389   ('SNORD90', 'Dysregulated immunity')            Not Found
