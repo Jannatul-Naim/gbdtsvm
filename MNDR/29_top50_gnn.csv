@@ -1,0 +1,55 @@
+RNA_Name,Disease_Name,Score
+DISC2,Mental Disorders,1.0,Founded
+DISC2,Panic Disorder,1.0,Relvant
+DISC2,Narcolepsy,1.0,Not Relevant
+LINC00162,Mental Disorders,1.0,Not Relevant
+LINC00162,Depression,1.0,Not Relevant
+LINC00162,Bipolar Disorder,1.0,Not Relevant
+LINC00162,Panic Disorder,1.0,Not Relevant
+LINC00162,Autism Spectrum Disorder,1.0,Not Relevant
+LINC00162,"Depressive Disorder, Major",1.0,Not Relevant
+LINC00162,Psychotic Disorders,1.0,Not Relevant
+LINC00162,Mood Disorders,1.0,Not Relevant
+MESTIT1,"Depressive Disorder, Major",1.0,Not Relevant
+MESTIT1,Psychotic Disorders,1.0,Not Relevant
+MESTIT1,Narcolepsy,1.0,Not Relevant
+MESTIT1,Spinocerebellar Ataxias,1.0,Not Relevant
+MKRN3-AS1,Spinocerebellar Ataxias,1.0,Not Relevant
+NRON,Spinocerebellar Ataxias,1.0,Not Relevant
+LINC00162,Silver-Russell Syndrome,0.9999998807907104
+MESTIT1,Mood Disorders,0.9999998807907104,Not Relevant
+MESTIT1,Autism Spectrum Disorder,0.9999997615814209,Not Relevant
+DISC2,Silver-Russell Syndrome,0.9999992847442627
+SCAANT1,Silver-Russell Syndrome,0.9999926090240479
+MKRN3-AS1,Narcolepsy,0.9999849796295166,Not Relevant
+MKRN3-AS1,Silver-Russell Syndrome,0.9999810457229614,Not Relevant
+H19,Spinocerebellar Ataxias,0.9999779462814331,Relvant
+HOTAIR,Neuroblastoma,0.999962568283081,Not Relevant
+MYCNOS,Narcolepsy,0.9998406171798706,Not Relevant
+DISC2,Cardiomyopathies,0.9997935891151428
+H19,Acquired Immunodeficiency Syndrome,0.9997778534889221,Not Relevant
+HOTAIR,Schizophrenia,0.9997022747993469,Not Relevant
+H19,"Diabetes Mellitus, Type 2",0.9996232986450195,Founded
+HOTAIR,Esophageal Neoplasms,0.9995929598808289,Not Relevant
+H19,Multiple Myeloma,0.9995834231376648,Founded
+UCA1,Glioma,0.9995542168617249,Not Relevant
+H19,Stroke,0.9995437264442444,Not Relevant
+H19,Heart Failure,0.9995402097702026,Relvant
+LINC00162,Spinocerebellar Ataxias,0.999504566192627
+SCAANT1,Narcolepsy,0.999504566192627
+LINC00032,Narcolepsy,0.9994901418685913,Relvant
+MALAT1,Astrocytoma,0.9994679093360901
+MYCNOS,Spinocerebellar Ataxias,0.9994307160377502,
+H19,"Leukemia, Myeloid, Acute",0.9993950128555298,Founded
+H19,Carotid Stenosis,0.999309778213501,Relvant
+SCAANT1,Prader-Willi Syndrome,0.9992443323135376
+HOTAIR,Diabetes Mellitus,0.9992225170135498,Founded
+CDKN2B-AS1,Spinocerebellar Ataxias,0.9990357160568237
+H19,"Carcinoma, Basal Cell",0.9989181756973267,Not Relevant
+NRON,Narcolepsy,0.9988625049591064,Not Relevant
+LINC00032,Spinocerebellar Ataxias,0.9988356232643127,Not Relevant
+H19,"Intracranial Hemorrhage, Hypertensive",0.9988057613372803,Not Relevant
+
+
+MESTIT1 -> Totally Not Relevant
+LINC00162 ->  Not Founded

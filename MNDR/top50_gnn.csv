@@ -1,0 +1,51 @@
+RNA_Name,Disease_Name,Score
+DISC2,Mental Disorders,1.0
+DISC2,Panic Disorder,1.0
+DISC2,"Leukemia, Lymphoid",1.0
+DISC2,"Leukemia, T-Cell",1.0
+DISC2,Substance-Related Disorders,1.0
+DISC2,Diabetic Retinopathy,1.0
+DISC2,Plasmacytoma,1.0
+LINC00162,Spinocerebellar Ataxias,1.0
+MESTIT1,Spinocerebellar Ataxias,1.0
+NRON,Narcolepsy,1.0
+SCAANT1,Narcolepsy,1.0
+DISC2,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,0.9999998807907104
+MESTIT1,Narcolepsy,0.9999998807907104
+DISC2,"Cardiomyopathy, Dilated",0.9999997615814209
+MKRN3-AS1,Mood Disorders,0.9999996423721313
+NRON,Spinocerebellar Ataxias,0.9999996423721313
+MKRN3-AS1,Psychotic Disorders,0.9999992847442627
+DISC2,Cardiomyopathies,0.9999991655349731
+DISC2,Hodgkin Disease,0.9999982118606567
+MKRN3-AS1,Autism Spectrum Disorder,0.9999979734420776
+DISC2,Spinocerebellar Ataxias,0.9999955892562866
+MKRN3-AS1,"Depressive Disorder, Major",0.9999942779541016
+7SK,Narcolepsy,0.9999910593032837
+ATP6V1G2-DDX39B,Narcolepsy,0.9999847412109375
+DISC2,"Sarcoma, Endometrial Stromal",0.9999784231185913
+ATP6V1G2-DDX39B,Spinocerebellar Ataxias,0.9999780654907227
+7SK,Spinocerebellar Ataxias,0.9999666213989258
+DISC2,"Leukemia, Promyelocytic, Acute",0.9999592304229736
+DISC2,"Aortic Aneurysm, Thoracic",0.9999570846557617
+MKRN3-AS1,Spinocerebellar Ataxias,0.9999514818191528
+DISC2,"Lymphoma, Mantle-Cell",0.9999310970306396
+DISC2,Burkitt Lymphoma,0.9999179840087891
+DISC2,Heroin Dependence,0.9998708963394165
+HOTAIR,Neuroblastoma,0.9998688697814941
+MKRN3-AS1,"Leukemia, Lymphoid",0.9997541308403015
+MALAT1,Schizophrenia,0.9996426105499268
+ATP6V1G2-DDX39B,Psychotic Disorders,0.9995180368423462
+SCAANT1,Silver-Russell Syndrome,0.9995100498199463
+DISC2,Diabetic Nephropathies,0.9994896650314331
+LINC00162,Silver-Russell Syndrome,0.9994531273841858
+DISC2,"Leukemia, Myeloid",0.999413251876831
+MKRN3-AS1,Bipolar Disorder,0.9993776679039001
+MESTIT1,Dyskeratosis Congenita,0.9992746710777283
+MKRN3-AS1,Depression,0.9992468357086182
+DISC2,DiGeorge Syndrome,0.999235987663269
+SCAANT1,Psychotic Disorders,0.9991088509559631
+UCA1,Glioma,0.9990957975387573
+H19,Ependymoma,0.9990233182907104
+LINC00162,Heart Failure,0.9989903569221497
+ATP6V1G2-DDX39B,Mood Disorders,0.9989583492279053
